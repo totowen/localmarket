@@ -1,0 +1,34 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+# 102.54.94.97 rhino.acme.com # source server
+# 38.25.63.10 x.acme.com # x client host
+
+# localhost name resolution is handled within DNS itself.
+# 127.0.0.1 localhost
+# ::1 localhost
+#216.133.234.21 chat.na1.lol.riotgames.com
+
+
+#190.93.245.13 ll.leagueoflegends.com
+#203.117.155.160 loltwcheck.garenanow.com
+#112.121.88.136 loginqueuetw.lol.garenanow.com
+#203.117.172.95 loltw.auth.garenanow.com
+#203.117.158.177 live.imconnect.garenanow.com
+#141.101.114.212 lq.na1.lol.riotgames.com
+#216.133.234.22 prod.na1.lol.riotgames.com
+#0.0.0.0       ssl.bandisoft.com
+#54.213.15.33 ekg.riotgames.com
+#74.125.237.1 dl-ssl.google.com
